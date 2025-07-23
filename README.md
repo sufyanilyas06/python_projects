@@ -12,8 +12,7 @@ A console-based Student Management System built using Python and SQLite. This pr
   - Teachers
   - Courses
   - Enrollments
-- Relational database with normalized schema (based on ERD)
-  
+- Relational database with normalized schema (based on ERD) 
 - Clean, menu-driven console interface
 - Modular structure for easy maintenance and scalability
 
