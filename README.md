@@ -1,10 +1,10 @@
-# 🎓 Student Management System
+#Student Management System
 
 A console-based Student Management System built using Python and SQLite. This project is designed to manage students, departments, teachers, courses, and enrollments efficiently through a modular architecture.
 
 ---
 
-## 📦 Features
+##Features
 
 - Add, view, search, update, and delete:
   - Students
@@ -13,6 +13,7 @@ A console-based Student Management System built using Python and SQLite. This pr
   - Courses
   - Enrollments
 - Relational database with normalized schema (based on ERD)
+  
 - Clean, menu-driven console interface
 - Modular structure for easy maintenance and scalability
 
